@@ -33,10 +33,10 @@ The data should include the following core metadata fields, or you should provid
 
 We also welcome suggestions of resources available on the web that we could scrape, but we need to access the resources without special registration or IP blocking.
 
-_working full query example on all their DSL pages
-query domain specific languages, outlines the syntax for outlining their queries
-each type of query and field has its own page
-way to structure filters together is implied
-don’t explain when things are shortcuts
-should = or ?
-how and why it does sharding and why_
+_Notes of possible additional info to include: working full query example on all their DSL pages//
+query domain specific languages, outlines the syntax for outlining their queries//
+each type of query and field has its own page//
+way to structure filters together is implied//
+don’t explain when things are shortcuts//
+should = or ?//
+how and why it does sharding and why_//
