@@ -9,8 +9,8 @@ FBOpen is a search API of opportunities to work with the U.S. government
 
 * Visit the website that we created to demo our search API, [fbopen.gsa.gov](https://fbopen.gsa.gov).
 * Our API documentation is at [18f.github.io/fbopen](https://18f.github.io/fbopen/).
-* Our data comes from [FedBizOpps](https://fbo.gov) and other sources. View the list of [sources of opportunity data](/fbd/data-sources) we currently include in FBOpen.
-* Visit [FBOpen on GitHub](https://github.com/fbopen).
+* Our data comes from [FedBizOpps](http://fbo.gov) and other sources. View the list of [sources of opportunity data](/fbd/data-sources) we currently include in FBOpen.
+* Visit [FBOpen on GitHub](https://github.com/18f/fbopen).
 
 ### About the FBOpen API
 
