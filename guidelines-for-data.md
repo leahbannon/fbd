@@ -17,6 +17,7 @@ FBOpen’s mission is to help small businesses search for opportunities to work 
 **Required Core Metadata Fields**
 
 The data should include the following core metadata fields, or you should provide documentation explaining which fields map to these core fields. All other data will be placed in a nested key specific to the data source.
+
 * "data_source":  -- the source of this opportunity --
 * "title": the opportunity’s title
 * "listing_url": as described above, the link to the listing-of-record for this opportunity
