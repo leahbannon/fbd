@@ -5,7 +5,7 @@ published: true
 
 ### Welcome to FBOpen Docs
 
-FBOpen is a search API of opportunities to work with the U.S. government
+FBOpen is a search API of opportunities to work with the U.S. government.
 
 * Visit the website that we created to demo our search API, [fbopen.gsa.gov](https://fbopen.gsa.gov).
 * FBOpen API documentation is at [18f.github.io/fbopen](https://18f.github.io/fbopen/).
@@ -26,4 +26,4 @@ We have used this approach, which we named Beckley, as a model for [other projec
 
 ### We Welcome Your Feedback
 
-Please reach out to us with your questions, ideas, concerns, etc. by emailing us at fbopen at gsa dot gov, on Twitter at [@fbopen](https://twitter.com/fbopen), or by creating a [GitHub issue](https://github.com/18f/fbopen/issues/new).
+Please reach out to us with your questions, ideas, concerns, etc. at fbopen at gsa dot gov, on Twitter at [@fbopen](https://twitter.com/fbopen), or by creating a [GitHub issue](https://github.com/18f/fbopen/issues/new).
